@@ -9,7 +9,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'English Vocabulary Notes',
   description: 'Tu diccionario personal de vocabulario en inglés con pronunciación',
-  generator: 'v0.app',
+  generator: 'RichCode',
   icons: {
     icon: [
       {
